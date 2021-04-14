@@ -1,0 +1,22 @@
+NTowers = 26
+[Level]
+odds = 0,10,5,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pass = grass.bmp
+nonspawn = hell.bmp
+wall = jungle_wall.bmp
+regen = regen.bmp
+boss = 6
+[Level]
+odds = 0,0,0,0,0,0,0,0,0,10,3,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+pass = ground_pass.bmp
+nonspawn = ground_nspawn.bmp
+wall = ground_wall.bmp
+regen = ground_regen.bmp
+boss = 15
+[Level]
+odds = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,10,4,2,0,0,0
+pass = ocean_pass.bmp
+nonspawn = ocean_nspawn.bmp
+wall = ocean_wall.bmp
+regen = ocean_regen.bmp
+boss = 23

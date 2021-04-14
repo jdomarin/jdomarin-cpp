@@ -1,0 +1,7 @@
+[OK: isprime k] isprime shall display to the user whether k is a prime number (k is a positive integer)
+[OK isprime n p] isprime should display to the user the list of prime numbers between two distinct positive integers n and p
+[ isprime -n N] isprime shall display to the user the N first prime numbers (where N is a non-zero positive integer)
+[ isprime -gt N] isprime shall display to the user the first prime number strictly greater than N
+[ isprime -lt N] isprime shall display to the user the first prime number strictly lower than N
+[ isprime -ge N] isprime shall display to the user the first prime number greater than N or equal
+[ isprime -le N] isprime shall display to the user the first prime number lower than N or equal

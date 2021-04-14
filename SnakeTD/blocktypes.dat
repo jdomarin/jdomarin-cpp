@@ -1,0 +1,5 @@
+g pass normal bg grass.bmp 50 200 50
+# block normal bg wall.bmp 100 100 100
+c pass regen bg ceil.bmp 200 100 100
+k pass king bg hell.bmp 0 0 0
+s pass nonspawn bg hell.bmp 255 0 255

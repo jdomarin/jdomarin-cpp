@@ -1,0 +1,8 @@
+Compilation : SDL, SDL_gfx et SDL_mixer sont nécessaires. Lancez le script compile.sh
+
+Touches : 
+ - Joueur 1 : Haut/bas/gauche/droite pour diriger, shift droite pour accélérer, entrée pour activer/désactiver le feu allié, CTRL droite pour lancer une attaque spéciale après avoir ramassé un bloc SPE ou tué un boss
+ - Joueur 2 : ZQSD pour diriger, SHIFT gauche pour accélérer, W pour activer/désactiver le feu allié, A pour lancer une attaque spéciale
+ - Joueur 3 : UHJK pour diriger, I pour accélérer, B pour activer/désactiver le feu allié, Y pour lancer une attaque spéciale
+
+Utilisation : ./SnakeTD [nombre de joueurs (1-3)]
